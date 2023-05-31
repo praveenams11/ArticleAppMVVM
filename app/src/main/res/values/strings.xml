@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ArticleAppMVVM</string>
+    <string name="app_bar_text">NY Times Most Popular</string>
 </resources>
