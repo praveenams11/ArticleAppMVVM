@@ -1,12 +1,13 @@
 # ArticleAppMVVM
 
-This is a sample app for viewing articles from Newyork Times which uses MVVM architecture and Jetpack Compose.
+This is a sample app for view and read list of articles from Newyork Times which uses MVVM architecture and Jetpack Compose.
 
 ###Prerequisites
 
-- Android Studio (Flamingo)
+- Android Studio Flamingo
 - Java Development KIt (JDK)
-- Android SDK
+- Kotlin 1.7.20
+- Android Gradle Plugin 8.0.1
 
 ###Installation
 
